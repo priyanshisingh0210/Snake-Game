@@ -35,7 +35,7 @@ A simple browser-based arcade game built using fundamental web development techn
 
 <!-- Add your game screenshot here -->
 
-![Snake Game Homepage](assets/screenshots/home-page.png)
+![Snake Game Homepage](assets/screenshots/homepage.png)
 
 ### 🐍 Gameplay
 
